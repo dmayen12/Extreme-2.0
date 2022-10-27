@@ -1572,6 +1572,52 @@ section.lazy-placeholder:after {
   color: #35f406;
   text-align: center;
 }
+.cid-tlvwMIjLax {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/background-new-logo-2000x1333.png");
+}
+.cid-tlvwMIjLax [class^="socicon-"]:before,
+.cid-tlvwMIjLax [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-tlvwMIjLax .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #149dcc;
+}
+.cid-tlvwMIjLax .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-tlvwMIjLax .btn-social:hover {
+  color: #fff;
+  background: #149dcc;
+}
+.cid-tlvwMIjLax .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-tlvwMIjLax .btn-social + .btn {
+  margin-left: .1rem;
+}
+@media (max-width: 767px) {
+  .cid-tlvwMIjLax .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-tlvwMIjLax .btn-social,
+.cid-tlvwMIjLax .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rVu0b7RwfH {
   padding-top: 30px;
   padding-bottom: 30px;
